@@ -32,7 +32,7 @@ You can install some of these dependencies using
 [Homebrew](http://brew.sh/):
 
 ```sh
-brew install autoconf automake opam caskroom/cask/brew-cask && \
+brew install autoconf automake opam libffi caskroom/cask/brew-cask && \
 brew cask install java7
 ```
 
